@@ -1,0 +1,29 @@
+./bin.o 16 24 1.1 1.0 0.01 3.0 [0-3] 1e-7 1e-12 X ./Ensambles/Xnode
+
+./bin.o 16 24 1.1 1.0 0.01 3.0 1 1e-7 1e-12 X ./Ensambles/1node/1node_runX.test
+
+1node:
+run1:
+	Seed: 180
+run2:
+	Seed: 174
+run3:
+	Seed: 106
+run4:
+	Seed: 133
+run5:
+	Seed: 195
+run6:
+	Seed: 146
+run7:
+	Seed: 180
+run8:
+	Seed: 109
+run9:
+	Seed: 152
+run10:
+	Seed: 108
+
+Notes:
+	Rerun runs 9 and 10 (same seed will give exact same result, send to diff. file to make sure) in order to save the log 
+	file from the terminal [in progress]

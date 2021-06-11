@@ -1,0 +1,27 @@
+Home: /Users/groverj/dpm
+
+./bin.o 16 24 1.1 1.0 0.01 3.0 [0-3] 1e-7 1e-12 X ./Ensambles/Xnode
+
+./bin.o 16 24 1.1 1.0 0.01 3.0 0 1e-7 1e-12 X ./Ensambles/0node
+
+0node:
+run1:
+	Seed: 17
+run2: 
+	Seed: 36
+run3:
+	Seed: 87
+run4:
+	Seed: 26
+run5:
+	Seed: 80
+run6:
+	Seed: 85
+run7:
+	Seed: 62
+run8:
+	Seed: 41
+run9:
+	Seed: 25
+run10:
+	Seed: 99
