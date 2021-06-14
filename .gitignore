@@ -1,4 +1,3 @@
-*.o
 *.dat
 *.mat
 *.slurm
